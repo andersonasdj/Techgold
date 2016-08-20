@@ -9,7 +9,7 @@ public class EntityFactory {
 	
 	static {
 		try {
-			factory = Persistence.createEntityManagerFactory("techgol_provider");
+			factory = Persistence.createEntityManagerFactory("techgold");
 		} catch (Throwable e) {
 			e.printStackTrace();
 		}

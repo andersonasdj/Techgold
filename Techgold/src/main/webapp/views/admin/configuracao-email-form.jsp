@@ -15,7 +15,7 @@
 <body>
 	<c:import url="barra-menus.jsp"></c:import>		
 	<br/><br/><br/>
-	<form action="salvarConfigEmail" method="get" class="form-horizontal container">
+	<form action="salvarConfigEmail" method="post" class="form-horizontal container">
 		<fieldset>
 			<legend>Configuração de envio de E-mail</legend>
 					
