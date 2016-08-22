@@ -31,7 +31,7 @@
 	          </div>
 	          <div class="form-group text-center">
 	            <a href="mailto:#">Esqueci a Senha</a>&nbsp;|&nbsp;<a href="#">Suporte</a>
-	            &nbsp;|&nbsp;<a href="assets/apk/ProviderOne.apk">APK</a>
+	            &nbsp;|&nbsp;<a href="#">APK</a>
 	          </div>
 	        </form>        
 	      </div>  
