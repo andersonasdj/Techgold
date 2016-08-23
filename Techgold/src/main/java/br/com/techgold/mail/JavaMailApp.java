@@ -59,7 +59,7 @@ public class JavaMailApp
 		      throw new RuntimeException(e);
 		}	
 	}
-	private static Session configuraEmail(Email email) {
+	private static Session configuraEmail(final Email email) {
 		Properties props = new Properties();
 		
 		/** Parâmetros de conexão com servidor Microsoft / Google */
